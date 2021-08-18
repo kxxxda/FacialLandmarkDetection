@@ -1,3 +1,26 @@
+## FacialLandmarkDetection
+https://youtu.be/7lXYGDVHUNw
+
+#### To Start
+#### `npm install @tensorflow/tfjs @tensorflow-models/facemsh react-webcam`
+#### `npm run start`     
+
+
+
+
+
+
+*****
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
